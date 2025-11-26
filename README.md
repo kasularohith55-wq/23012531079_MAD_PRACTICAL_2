@@ -6,7 +6,7 @@ Create Activity to display “Hello World” in TextView in the center of Activi
 Log Message in logcat, Properties of Layout ConstraintLayout, Generate id of TextView
 
 **OUTPUT**:
-<img width="1919" height="1016" alt="Screenshot 2025-09-17 101723" src="https://github.com/user-attachments/assets/85936625-1e6a-44d0-b9c4-012728264233" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a14f302f-e4a2-44e7-b3b6-e79abe3617e1" />
 
 
 
